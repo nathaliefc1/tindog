@@ -1,4 +1,4 @@
-###Tindog
+### Tindog
 
 Mi primer proyecto que nace incluso antes de realizar el Bootcamp de desarrollo web.
 M curiosidad siempre ha estado en poder crear algo desde la nada con la programación hasta publicarlo en internet, con este proyecto mi intención fue finalizar un primer paso hacia nuevas oportunidades.
